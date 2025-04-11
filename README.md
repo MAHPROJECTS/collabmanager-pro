@@ -16,16 +16,14 @@ A CLI-based project collaboration tool using Python and SQLite.
    - Mac/Linux: `source venv/bin/activate`
 4. Install dependencies (if any): `pip install -r requirements.txt`
 5. Run: `python main.py`
-
-## Tasks
-- Person A: `auth.py`, `projects.py`, `db/schema.sql`
-- Person B: `tasks.py`, `reporting.py`, CLI improvements
-
+   
 ## License
 MIT
 
 
 👥 Team Roles Breakdown (3 People)
+
+
 🔹 Person A – User Management & Project Control
 Focus: Setting up users and managing projects
 Files to work on:
