@@ -1,6 +1,7 @@
 def create_task():
     task_name = input("Task name: ")
-    print(f"Task received: {task_name}")  # TODO: Add task creation logic
+    task_info = input("Task information: ")
+    #print(f"Task received: {task_name}")  # TODO: Add task creation logic
 
 def update_task():
     pass  # TODO: Add task update logic
