@@ -4,7 +4,12 @@ def create_task():
     #print(f"Task received: {task_name}")  # TODO: Add task creation logic
 
 def update_task():
+    #display all tasks and number them
+    #ask which task to update
+    #change task name:
+    #change task information:
     pass  # TODO: Add task update logic
 
 def list_tasks():
+    #list tasks
     pass  # TODO: Display tasks by filters
