@@ -62,7 +62,7 @@ main.py (shared task)
 
 Work with Person C to plug in task-related options into the CLI menu
 
-🔹 Person C – Reporting, Utilities & CLI Integration
+🔹 Person C – Reporting, Utilities & GUI Integration
 Focus: File exports, database connectivity, and user interface
 Files to work on:
 
@@ -80,6 +80,6 @@ Help with shared helper functions
 
 main.py
 
-Build the CLI menu
+Build the GUI menu
 
 Connect all the modules together so that the app runs smoothly
