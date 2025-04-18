@@ -24,6 +24,7 @@ def main():
         elif choice == '4':
             projects.join_project()
         elif choice == '5':
+            print("Create Task")
             tasks.create_task()
         elif choice == '6':
             tasks.update_task()
