@@ -11,5 +11,7 @@ def update_task():
     pass  # TODO: Add task update logic
 
 def list_tasks():
-    #list tasks
+    #displa tasks and  number them
+    #ask which task to view
+    #display task name and info
     pass  # TODO: Display tasks by filters
